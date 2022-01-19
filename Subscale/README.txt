@@ -1,0 +1,1 @@
+This file is a placeholder for this directory. Fill this directory with any project files for Subscale. Create a new branch when working on a project to avoid mixing the work of other groups with your work.
