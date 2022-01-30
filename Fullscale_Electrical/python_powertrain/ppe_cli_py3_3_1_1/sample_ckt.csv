@@ -1,0 +1,12 @@
+﻿wire,wire,wire,wire,Capacitor_C1,wire,wire,wire,wire
+wire,,,,,,,,wire
+wire,,,,,,,,wire
+wire,,,,,,,,wire
+wire,,,,,,,,Resistor_R1
+VoltageSource_Vcc,,,,,,,,wire
+wire,,,,,,,,wire
+wire,,,,,,,,wire
+wire,,,,,,,,Ammeter_A1
+wire,,,,,,,,wire
+wire,,,,,,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire
