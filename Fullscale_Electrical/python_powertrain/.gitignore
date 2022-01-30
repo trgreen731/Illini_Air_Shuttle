@@ -1,0 +1,10 @@
+#python compilation files
+__pycache__/
+*.pyc
+
+#jupyter notebook checkpoint files
+.ipynb_checkpoints/
+*.ipynb
+
+#python powertrain simulation output files
+*.dat
