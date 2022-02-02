@@ -1,0 +1,4 @@
+Input, Element name in circuit spreadsheet = Ammeter_A1, Desired variable name in control code = Ammeter_A1, 
+StaticVariable, Desired variable name in control code = Var1, Initial value of variable = 0.0, 
+TimeEvent, Desired variable name in control code = t1, First time event = 0.0, 
+VariableStorage, Desired variable name in control code = VarStor1, Initial value of variable = 0.0, Plot variable in output file = no, 

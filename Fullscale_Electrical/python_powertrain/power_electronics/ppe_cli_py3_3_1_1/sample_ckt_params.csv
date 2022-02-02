@@ -1,0 +1,4 @@
+Capacitor, C1, 1E,1.00E-05, Positive polarity towards (cell) = 1F, ,,,
+Resistor, R1, 5I,100, ,,,,
+VoltageSource, Vcc, 6A, Peak (Volts) = 120.000000, Frequency (Hertz) = 60.000000, Phase (degrees) = 0.000000, Dc offset = 0.000000, Positive polarity towards (cell) = 7A, 
+Ammeter, A1, 9I, Positive polarity towards (cell) = 10I, ,,,,
